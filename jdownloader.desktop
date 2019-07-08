@@ -1,0 +1,8 @@
+#!/usr/bin/env
+[Desktop Entry]
+Name=jdownloader script
+Comment=Starts jdownloader
+Exec=sudo java -jar /home/pi/sys-py/.jd/JDownloader.jar
+Terminal=false
+Type=Application
+icon=/home/pi/sys-py/jd.ico
